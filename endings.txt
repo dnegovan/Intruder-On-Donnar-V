@@ -1,0 +1,63 @@
+TOOK_POD_NONE_DEAD
+You’ve escaped, leaving your wife and your crew to certain doom.
+Not only are you a coward, if the parasite takes your ship back to Earth you may have doomed the entire human race.
+
+TOOK_POD_SOME_DEAD
+You’ve escaped, leaving your remaining crew to certain doom.
+Not only are you a failure and a coward, if the parasite takes your ship back to Earth you may have doomed the entire human race.
+
+KILLED_WIFE_PRE_INCUBATION
+You still had time to save her, but you decided to take the opportunity to rid yourself of both an alien parasite and the wife you’ve grown to despise.
+Hopefully your on-the-fly explanation of accelerated incubation convinces the crew, and your superiors back on Earth.
+
+KILLED_WIFE_WRONG_INJECTION
+You wasted the neutralization compound and killed an innocent friend, but by recovering quickly and making the hard choice to kill your own wife, you've saved the rest of the crew.
+No one blames you for your mistake, but you will blame yourself for every second of the rest of your life without her.
+
+KILLED_WIFE_BEFORE_SPREAD
+You were too late to save her life, but at least you can find solace in the fact that you’ve saved the rest of the crew (and possibly all of humanity) from the alien parasite.
+A long, quiet journey back to Earth awaits your crew, all of whom are looking at you much differently now.
+
+SAVED_WIFE
+Your quick thinking an ingenuity has saved your wife, the crew, and possibly all of humanity!  You’ve earned everyone’s tremendous respect and admiration.
+After returning to Earth, you and your crew are promoted, awarded a larger ship, and given far more autonomy to explore further reaches of the galaxy. Well done!
+
+SHOT_ONE_THEN_SAVED_WIFE
+The surviving crew are very bewildered, wondering why you needed to shoot a supposed suspect of infection when you had the ability to use the neutralization compound.  They are looking at you with suspicion, and grumblings that you used the parasite as an excuse to dispose of your least-liked shipmate are not being hidden very well.
+Your wife isn’t accepting your explanations either, and tensions run high.  Eventually, an argument breaks out, resulting in a mutiny.  You and your wife are left alone on a deserted planet.  She hates you.
+
+SHOT_SOME_THEN_SAVED_WIFE
+The surviving crew is very bewildered, and wondering why you needed to shoot supposed suspects of infection when you had the ability to use the neutralization compound.  They are looking at you with suspicion, and grumblings that you used the parasite as an excuse to dispose of your perfectly healthy but least-liked shipmates are not being hidden very well.
+Your wife isn’t accepting your explanations either, and tensions run high.  Eventually, an argument breaks out, resulting in a mutiny. You and your wife are left alone on a deserted planet.  She hates you.
+
+SHOT_ALL_THEN_SAVED_WIFE
+Your wife is beside herself now that she’s back to normal and the entire crew is dead.  She does not understand why you needed to kill them, and the only conclusions she can draw are that you are incompetent or deranged.
+She decides neither are acceptable and after a cold, silent, journey back to Earth, divorces you immediately.
+
+ALL_CREW_DEAD_YOU_SURVIVE
+Your crew have all perished, and you’ve only escaped the parasite by the skin of your teeth.
+Facing alone the long trip home, not to mention the rest of your miserable life, you decide the best thing to do would be to end it all with the handgun that killed your wife and your friends.
+
+INCUBATED_SOME_SURVIVE
+You wasted your chance to save everyone with the neutralization compound, but at least some of the crew made it through this terrifying experience.  You decide to return to Earth and retire from space exploration.
+The life you lead afterwards is uneventful and unfulfilling.  When you eventually die of old age, you are quickly forgotten.
+
+SHOT_INNOCENT_AND_WIFE
+You rid the ship of the alien parasite, but the remaining crew has realized that you didn't need to kill as many people as you did.  You overhear their whispered complaints to each other: that their friends might still be alive if you had kept a cooler head.
+You've lost your wife, as well as your crew's trust and respect.  Everyone decides to return to Earth and go their separate ways, and none ever shake the feeling that things should have been different.
+
+SHOT_ALL_SOME_INNOCENT
+Murdering the entire crew for good measure was, to you, the most surefire way to avoid contracting the parasite. Your cold, black heart feels nothing as you load up the bodies and eject them into space.
+You see your wife's hand askew and sticking out of the pile of your dead crew as it floats away, her wedding band glinting in the ship's floodlights.
+
+PLAYER_AND_CREW_INFECTED
+You were clearly not the man to count on in this ordeal. The parasite made short work of the Donnar V, and will likely do the same to planet Earth when it gets there.
+Unfortunately, your consciousness remains aware of everything the parasite is doing with your body. You will be forced to helplessly spectate the remainder of your existence.
+
+KILLED_PEOPLE_INFECTED_ANYWAY
+Not only did you kill your shipmates, you failed to stop the incubation and spread of the parasite.  However, you saved those murdered crew members from the fate that now awaits you - watching helplessly from within your own mind as the parasite controls your body.
+You’ll have plenty of time to think about how you would have done things differently.
+
+KILLED_PERSON_INFECTED_ANYWAY
+Not only did you kill your shipmate, you failed to stop the incubation and spread of the parasite.  However, you saved that murdered crew member from the fate that now awaits you - watching helplessly from within your own mind as the parasite controls your body.
+You’ll have plenty of time to think about how you would have done things differently.
